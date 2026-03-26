@@ -11,7 +11,7 @@ Features
 Technologies Used
 - Bash (Shell Script)
 - Linux / Terminal
- ▶️ How to Run
+ How to Run
 1. Open terminal
 2. Run the script:
    bash todo.sh
